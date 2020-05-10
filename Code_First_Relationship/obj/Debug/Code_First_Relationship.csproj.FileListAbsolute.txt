@@ -1,0 +1,30 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Relationship\Code_First_Relationship\bin\Debug\Code_First_Relationship.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Relationship\Code_First_Relationship\bin\Debug\Code_First_Relationship.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Relationship\Code_First_Relationship\bin\Debug\Code_First_Relationship.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Relationship\Code_First_Relationship\bin\Debug\EntityFramework.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Relationship\Code_First_Relationship\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Relationship\Code_First_Relationship\bin\Debug\EntityFramework.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Relationship\Code_First_Relationship\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Relationship\Code_First_Relationship\obj\Debug\Code_First_Relationship.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Relationship\Code_First_Relationship\obj\Debug\Code_First_Relationship.Form1.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Relationship\Code_First_Relationship\obj\Debug\Code_First_Relationship.Properties.Resources.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Relationship\Code_First_Relationship\obj\Debug\Code_First_Relationship.csproj.GenerateResource.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Relationship\Code_First_Relationship\obj\Debug\Code_First_Relationship.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Relationship\Code_First_Relationship\obj\Debug\Code_First_Relationship.csproj.CopyComplete
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Relationship\Code_First_Relationship\obj\Debug\Code_First_Relationship.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Code_First_Relationship\Code_First_Relationship\obj\Debug\Code_First_Relationship.pdb
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Relationship\Code_First_Relationship\bin\Debug\Code_First_Relationship.exe.config
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Relationship\Code_First_Relationship\bin\Debug\Code_First_Relationship.exe
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Relationship\Code_First_Relationship\bin\Debug\Code_First_Relationship.pdb
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Relationship\Code_First_Relationship\bin\Debug\EntityFramework.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Relationship\Code_First_Relationship\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Relationship\Code_First_Relationship\bin\Debug\EntityFramework.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Relationship\Code_First_Relationship\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Relationship\Code_First_Relationship\obj\Debug\Code_First_Relationship.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Relationship\Code_First_Relationship\obj\Debug\Code_First_Relationship.Form1.resources
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Relationship\Code_First_Relationship\obj\Debug\Code_First_Relationship.Properties.Resources.resources
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Relationship\Code_First_Relationship\obj\Debug\Code_First_Relationship.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Relationship\Code_First_Relationship\obj\Debug\Code_First_Relationship.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Relationship\Code_First_Relationship\obj\Debug\Code_First_Relationship.csproj.CopyComplete
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Relationship\Code_First_Relationship\obj\Debug\Code_First_Relationship.exe
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Code_First_Relationship\Code_First_Relationship\obj\Debug\Code_First_Relationship.pdb
